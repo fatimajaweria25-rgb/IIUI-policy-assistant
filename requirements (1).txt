@@ -1,8 +1,8 @@
 streamlit==1.38.0
 python-dotenv==1.0.1
 langchain==0.2.14
-langchain-google-genai==2.0.3
 langchain-community==0.2.14
+langchain-google-genai==2.0.3
 faiss-cpu==1.8.0
 google-generativeai==0.7.2
 sentence-transformers==3.0.1
